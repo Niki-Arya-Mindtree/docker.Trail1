@@ -8,6 +8,7 @@ public class Application {
 
 	public static void main(String[] args) {
 		
+		//new trail
 		SpringApplication.run(Application.class, args);
 	}
 
